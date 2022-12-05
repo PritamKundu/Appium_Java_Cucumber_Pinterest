@@ -1,6 +1,6 @@
 # Appium_Java_Cucumber_Pinterest
 
-#### Project website Details: Social Media <br>
+#### Project website Details: Pinterest Social Media <br>
 -----------------------------------------------------------
 ## Technology: <br>
 * Automation Framework: Selenium, Appium <br>
